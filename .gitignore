@@ -1,4 +1,5 @@
 *.pyc
+cmake.cmake
 .download
 .installed.cfg
 bin
